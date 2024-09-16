@@ -6,11 +6,11 @@
 
 *Each solution contains a distinct board configuration of the n-queens' placement, where 'Q' and '.' both indicate a queen and an empty space, respectively.*
 
-![Puzzle] (https://github.com/mohammedfarhannp/n_Queens/blob/main/imgs/Puzzle.png)
+![Puzzle](https://github.com/mohammedfarhannp/n_Queens/blob/main/imgs/Puzzle.png)
 
 The solution is coded in C programming language using an algorithm called **back tracking**. The solution uses one global integer array to keep track of row positions where queens could be placed without conflict issue of same column or diagnol. If the n queens are not placed the algorithm tracks all the way back to first index and try an alternative path.
 
-![Solution] (https://github.com/mohammedfarhannp/n_Queens/blob/main/imgs/Solution_Executed.png)
+![Solution](https://github.com/mohammedfarhannp/n_Queens/blob/main/imgs/Solution_Executed.png)
 
 To compile this C program
 `gcc main.c -o main.exe`
