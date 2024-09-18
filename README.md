@@ -8,7 +8,7 @@
 
 ![Puzzle](https://github.com/mohammedfarhannp/n_Queens/blob/variant_py/imgs/Puzzle.png)
 
-The solution is coded in C programming language using an algorithm called **back tracking**. The solution uses one global integer array to keep track of row positions where queens could be placed without conflict issue of same column or diagnol. If the n queens are not placed the algorithm tracks all the way back to first index and try an alternative path.
+The solution is coded in python programming language using an algorithm called **back tracking**. The solution uses the concept of OOPs to solve this puzzle. The Algorithm used for solving this puzzle is **back-tracking**.
 
 ![Solution](https://github.com/mohammedfarhannp/n_Queens/blob/variant_py/imgs/Solution_Executed.png)
 
