@@ -8,7 +8,7 @@
 
 ![Puzzle](https://github.com/mohammedfarhannp/n_Queens/blob/variant_py/imgs/Puzzle.png)
 
-The solution is coded in python programming language using an algorithm called **back tracking**. The solution uses the concept of OOPs to solve this puzzle. The Algorithm used for solving this puzzle is **back-tracking**.
+The solution is coded in python programming language using an algorithm called **back tracking**. The solution uses the concept of OOPs to solve this puzzle.
 
 ![Solution](https://github.com/mohammedfarhannp/n_Queens/blob/variant_py/imgs/Solution_Executed.png)
 
